@@ -1,0 +1,19 @@
+.background-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+
+.secBackground {
+  background-color: #ffffff;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.list-container {
+  padding: 10px;
+}
